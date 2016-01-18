@@ -1,0 +1,22 @@
+/*
+GLOBAL PAGE STYLES
+*/
+@import url(https://fonts.googleapis.com/css?family=Geo);
+body {
+	background-color: #dcdcdc
+}
+
+h1 {
+	font-family: 'Geo';
+	text-align: center;
+	font-size: 55px;
+}
+
+p {
+	text-align: center;
+	font-family: Geo;
+}
+
+h2 {
+	font-family: 'Geo';
+	}
