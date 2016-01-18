@@ -1,5 +1,5 @@
 /*
-GLOBAL PAGE STYLES
+CSS STYLES PAGE
 */
 @import url(https://fonts.googleapis.com/css?family=Geo);
 body {
@@ -20,3 +20,7 @@ p {
 h2 {
 	font-family: 'Geo';
 	}
+img {
+	width: 50px;
+	height: 50px;
+}
