@@ -1,26 +1,28 @@
 /*
 CSS STYLES PAGE
 */
-@import url(https://fonts.googleapis.com/css?family=Geo);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
 body {
 	background-color: #dcdcdc
 }
 
 h1 {
-	font-family: 'Geo';
+	font-family: 'Raleway';
 	text-align: center;
 	font-size: 55px;
 }
 
 p {
 	text-align: center;
-	font-family: Geo;
+	font-family: Raleway;
 }
 
 h2 {
-	font-family: 'Geo';
+	font-family: 'Raleway';
 	}
 img {
+	C:\Users\rkite_000\Desktop\Bootcamp\git\aboutme\Images.jpg
 	width: 50px;
 	height: 50px;
 }
