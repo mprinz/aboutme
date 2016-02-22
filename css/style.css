@@ -1,8 +1,8 @@
 /*
 CSS STYLE PAGE
 */
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
 
+@import url(https://fonts.googleapis.com/css?family=Rosario:400,400italic);
 
 
 
@@ -24,6 +24,7 @@ body { width: 100%;}
 ​
 .sfooter-content {
 	flex: 1 0 auto;
+	font-family: "Rosario"
 }
 
 .content-box {
@@ -31,21 +32,3 @@ body { width: 100%;}
 	border-radius: 6px;
 	padding: 10px;
 }
-body {
-	background-color: #990000;
-}
-
-h1 {
-	font-family: "Raleway";
-	text-align: center;
-	font-size: 75px;
-}
-
-p {
-	text-align: center;
-	font-family: "Raleway";
-}
-
-h2 {
-	font-family: "Raleway";
-	}
