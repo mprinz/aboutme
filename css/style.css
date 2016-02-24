@@ -10,6 +10,11 @@
 	font-family: Oswald;
 }
 
-body{
+body {
 	background-color: lightsteelblue;
+}
+
+#photo {
+	height: 400px;
+	width: 400px;
 }
