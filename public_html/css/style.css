@@ -1,0 +1,36 @@
+/**
+*CSS Style Sheet
+*
+**/
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+.jumbotron {
+		background-color: darkturquoise;
+	color: #ffffff;
+	font-family: Oswald;
+}
+
+body {
+	background-color: lightsteelblue;
+
+	}
+
+.navbar {
+
+}
+
+h2 {
+	color: white;
+}
+
+li {
+	font-family: "Comic Sans MS";
+	color: #ffffff;
+}
+
+.content-box{
+	background-color: lightsalmon;
+	border-radius: 6px;
+	padding: 10px 15px 15px;
+	margin-bottom: 20px
+}

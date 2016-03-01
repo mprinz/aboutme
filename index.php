@@ -17,14 +17,17 @@
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
 
-		<link type="text/css" rel="stylesheet" href="css/style.css">
+		<!--Font awesome-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<!--CSS style sheet-->
+		<link type="text/css" rel="stylesheet" href="public_html/css/style.css">
 
 			<title>Michael Prinz</title>
 
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-		<header>
+		<header class="header">
 			<div class="container">
 				<nav class="navbar navbar-inverse">
 					<!-- Brand and toggle get grouped for better mobile display -->
@@ -37,24 +40,33 @@
 			<div class = "jumbotron">
 				<div class = "container">
 					<h1 class="text-center">Hi, I'm Michael Prinz.</h1>
-					<p class="text-center">I'm a web developer based in Santa Fe.</p>
+					<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
 				</div>
 			</div>
 			<div class ="container">
 				<div class ="row">
-					<div class ="col.md.12">
-				<h2>About Me:</h2>
-				<ul>
-					<li>I was born and raised in Albuquerque and have also lived in California and France.</li>
-					<li>Besides being a web developer I am also a laywer and have practiced criminal and civil law.</li>
-					<li>I love exploring cities <em>and</em> nature.</li>
-					<li>I'm married and have a cat named Mica.</li>
-				</ul>
-						<div class ="container">
-
-						<img id="photo" src="images/IMG_1782.JPG" alt ="flower photo">
+					<div class ="col.md.6">
+						<div class = "content-box">
+							<h2>About Me:</h2>
+								<ul>
+									<li>Born and raised in Albuquerque, I also have lived in California and France.</li>
+									<li>Before becoming a web developer, I was a lawyer and practiced criminal and civil law.</li>
+									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
+									<li>I enjoy playing guitar, drawing, and photography.</li>
+								</ul>
 						</div>
-
+					</div>
+						<div class = "col.md.6">
+							<div class ="content-box">
+								<h2>Tech Toolbox:</h2>
+								<ul>
+									<li>HTML</li>
+									<li>CSS</li>
+									<li>Bootstrap</li>
+									<li>PHP</li>
+									<li>MySQL</li>
+								</ul>
+						</div>
 						</div>
 				</div>
 			</div>
