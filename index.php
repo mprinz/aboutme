@@ -28,35 +28,16 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 		<header class="header">
-			<div class="container">
-				<nav class="navbar navbar-inverse">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-
-
-					</div>
-				</nav>
-			</div>
-			<div class = "jumbotron">
-				<div class = "container">
-					<h1 class="text-center">Hi, I'm Michael Prinz.</h1>
-					<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
-				</div>
-			</div>
-			<div class ="container">
-				<div class ="row">
-					<div class ="col.md.6">
-						<div class = "content-box">
-							<h2>About Me:</h2>
+			<h1>Hi, I'm Michael Prinz.</h1>
+			<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
+				<h2>About Me:</h2>
 								<ul>
 									<li>Born and raised in Albuquerque, I also have lived in California and France.</li>
 									<li>Before becoming a web developer, I was a lawyer and practiced criminal and civil law.</li>
 									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
 									<li>I enjoy playing guitar, drawing, and photography.</li>
 								</ul>
-						</div>
-					</div>
-						<div class = "col.md.6">
+						<div class = "col-md-6">
 							<div class ="content-box">
 								<h2>Tech Toolbox:</h2>
 								<ul>
@@ -71,6 +52,8 @@
 				</div>
 			</div>
 		</header>
+		</div>
+
 		</div>
 
 	</body>

@@ -4,22 +4,26 @@
 **/
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
-.jumbotron {
+html {
+	background: url(../images/Petroglyph.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/**.jumbotron {
 		background-color: darkturquoise;
 	color: #ffffff;
 	font-family: Oswald;
 }
+*/
 
-body {
-	background-color: lightsteelblue;
-
-	}
-
-.navbar {
-
-}
-
-h2 {
+h1 {
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
 	color: white;
 }
 
